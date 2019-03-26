@@ -1,6 +1,6 @@
 # Star Wars
 
-![./tie_fihter.png](TIE Fighter)
+![TIE Fighter](./tie_fihter.png)
 
 
 Este repositório foi criado para exemplo e exercício no aprendizado do Git/Github.
